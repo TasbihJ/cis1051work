@@ -2,7 +2,7 @@
 
 ## What idea(s) do you have for your final project?
  A webpage of scenic timelapses (cloud movement, rain)
-
+ An app
 
 
 ## If you plan to collaborate with one or two classmates, what are their names?
